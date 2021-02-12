@@ -11,6 +11,7 @@ import time
 
 import constants
 
+
 def main():
     # Blinks a light on and off every second
 
